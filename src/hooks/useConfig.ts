@@ -1,5 +1,5 @@
 import { useContext } from 'react';
-import context from './contex';
+import context from './context';
 
 /**
  * `useConfig` is a custom hook which returns the config object. It uses the `useContext` primitive
